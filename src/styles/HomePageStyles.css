@@ -1,0 +1,65 @@
+/* .filters {
+  background-color: whitesmoke;
+}
+
+.card {
+  box-shadow: 5px 5px 15px #0258a2;
+}
+
+.card-img-top {
+  margin: auto;
+  padding: 1.5rem;
+  min-height: 15rem;
+}
+
+.card-body {
+  background-color: #c1e2ff;
+  color: #0258a2;
+  height: 11rem;
+}
+
+.card-title {
+  font-size: large !important;
+  border-bottom: 1px solid #0258a2;
+}
+.card-price {
+  font-size: medium;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: small;
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+.btn {
+  border: 1px solid #0258a2;
+  color: #0258a2;
+}
+
+.btn:hover {
+  border: 1px solid #0258a2;
+  font-weight: 300;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.category {
+  padding: 5rem;
+  font-size: x-large;
+  background-color: #c1e2ff;
+}
+
+.content {
+  min-height: 100vh;
+  background-color: #c1e2ff;
+} */
+
+.product-image {
+  height: 200px; /* Set the desired fixed height for your images */
+  object-fit: contain; /* Maintain aspect ratio while covering the container */
+}
